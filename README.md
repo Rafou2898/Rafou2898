@@ -8,7 +8,7 @@ I'm currently studying embedded systems at HEIG-VD. I enjoy working on both low-
 - Student in embedded systems engineering
 - Interested in: IoT, automation, Linux, networking, wireless protocols (LoRa, BLE 6.0, Wi-Fi 7), and robotics
 - Comfortable working in C, Python, Bash
-- 
+
 ## Projects and labs
 
 Most of my university labs are hosted on the following GitHub organization:  
